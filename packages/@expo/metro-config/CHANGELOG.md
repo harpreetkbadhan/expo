@@ -1,5 +1,13 @@
 # Changelog
 
+## 58.0.24
+
+### Patch Changes
+
+- [Internal] `getDefaultConfig` sets `resolver.useWatchman` to `false` in place of `null`. ([#53731](https://github.com/expo/expo/pull/53731) by [@robhogan](https://github.com/robhogan))
+- Updated dependencies.
+  - @expo/config@58.0.13
+
 ## 58.0.23
 
 ### Patch Changes
